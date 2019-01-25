@@ -27,3 +27,7 @@ Finally, obtain the API keys and plug them into your ``sentry.conf.py``:
 
     GOOGLE_CLIENT_SECRET = ""
 
+Configuration
+-------------
+
+Go to your organization's authentication settings (`/<organization>/settings/auth/`), then click to `Configure` button.
